@@ -26,3 +26,5 @@ function answer02(risk, bonus, trader)
 }
 
 module.exports = answer02
+
+git push
